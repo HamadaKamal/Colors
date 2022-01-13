@@ -1,0 +1,7 @@
+print ("\033[0;31mColor [1]")
+print ("\033[0;32mColor [2]")
+print ("\033[0;33mColor [3]")
+print ("\033[0;34mColor [4]")
+print ("\033[0;35mColor [5]")
+print ("\033[0;36mColor [6]")
+print ("\033[0;37mColor [7]")
